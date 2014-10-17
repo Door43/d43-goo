@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[goo:home|Door43 (goo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-goo|d43-goo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-goo/archive/master.zip|d43-goo.zip]]
+
+**Recent Changes**
+{{changes>ns = goo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/goo|Ethnologue data]]
+
